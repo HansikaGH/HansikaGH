@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hansika
+- 👋 Hi, I’m Hansika
 - 👀 I’m interested in Frontend Web-Dev
 - 🌱 I’m currently learning JavaScript and new technologies
 - 📫 Reach me at https://www.linkedin.com/in/hansika-shaw-7a4aa7296/
